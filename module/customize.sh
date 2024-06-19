@@ -20,9 +20,9 @@ REMOVE="
 /product/app/SpeechServicesByGoogle
 /product/app/WebviewGoogle
 /product/app/YouTube
-/system_ext/system/priv-app/GoogleFeedback
-/system_ext/system/priv-app/GoogleServicesFramework
-/system_ext/system/priv-app/SetupWizard
+/system/system_ext/priv-app/GoogleFeedback
+/system/system_ext/system/priv-app/GoogleServicesFramework
+/system/system_ext/system/priv-app/SetupWizard
 /apex/com.android.adservices/priv-app/AdServicesApkGoogle@341316030
 /system/priv-app/AREmoji
 /system/app/ARDrawing
