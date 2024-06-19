@@ -115,9 +115,6 @@ REMOVE="
 /system/priv-app/AudioMirroring
 /system/priv-app/BeaconManager
 /system/priv-app/AdaptSound_U
-/system/priv-app/knoxanalyticsagent
-/system/app/GooglePrintRecommendationService
-/system/app/GoogleExtShared
 /system/priv-app/SamsungExperienceService
 /system/priv-app/SamsungMultiConnectivity
 /system/priv-app/SmartThingsKit
