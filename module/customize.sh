@@ -102,7 +102,6 @@ REMOVE="
 /system/app/SamsungTTSVoice_zh_CN_f00
 /system/app/SamsungTTSVoice_zh_HK_f00
 /system/app/SamsungTTSVoice_zh_TW_f00
-/system/priv-app/knoxanalyticsagent
 /system/priv-app/PeopleStripe
 /apex/com.android.adservices
 /apex/com.android.adservices@341316030
@@ -115,7 +114,4 @@ REMOVE="
 /system/priv-app/AudioMirroring
 /system/priv-app/BeaconManager
 /system/priv-app/AdaptSound_U
-/system/app/GoogleExtShared
-/system/app/GooglePrintRecommendationService
-/system/app/CaptivePortalLoginGoogle 
 "
