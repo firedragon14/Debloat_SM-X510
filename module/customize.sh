@@ -120,4 +120,10 @@ REMOVE="
 /system/priv-app/SmartThingsKit
 /system/priv-app/SPPPushClient
 /system/app/MAPSAgent
+/system/product/priv-app/PrivateComputeServices
+/system/product/priv-app/CarrierWifi
+/system/priv-app/EasySetup
+/system/priv-app/knoxanalyticsagent
+/system/priv-app/OMCAgent5
+/system/priv-app/Fmm
 "
