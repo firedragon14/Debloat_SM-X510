@@ -176,6 +176,5 @@ REMOVE="
 /system/priv-app/KmxService
 /prism/priv-app/MyGalaxy
 /system/priv-app/KnoxCore
-/system/priv-app/KnoxGuard
 /system/priv-app/PhotoEditor_Full
 "
