@@ -1,6 +1,6 @@
 id=debloat-gts9fewifi
 name=SM-X510 Debloater
-version=v2.1
+version=v2.2
 versionCode=2000
 author=ArchVisions
 description=Simple module to remove Google apps and Samsung apps systemlessly for SM-X510.
