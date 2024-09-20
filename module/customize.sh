@@ -180,5 +180,4 @@ REMOVE="
 /system/priv-app/NetworkStackGoogle
 /system/priv-app/PhotoEditor_Full
 /system/priv-app/SecAppSeparation
-/system/priv-app/TalkbackSE
 "
