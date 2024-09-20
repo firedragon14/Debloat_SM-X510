@@ -178,5 +178,4 @@ REMOVE="
 /system/priv-app/KnoxCore
 /system/priv-app/KnoxGuard
 /system/priv-app/PhotoEditor_Full
-/system/priv-app/SecAppSeparation
 "
