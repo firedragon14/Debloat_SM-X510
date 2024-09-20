@@ -131,9 +131,6 @@ REMOVE="
 /system/app/GearManagerStub
 /system/priv-app/CallAssistant
 /system/priv-app/BlockedNumberProvider
-/system/priv-app/CallBGProvider
-/system/priv-app/CallContentProvider
-/system/priv-app/CallLogBackup
 /system/priv-app/CocktailBarService_v3.2
 /system/priv-app/DeviceBasedServiceConsent
 /system/priv-app/DiagMonAgent91
