@@ -159,4 +159,14 @@ REMOVE="
 /system/priv-app/ShareLive
 /system/priv-app/smartfaceservice
 /system/priv-app/SmartCallProvider
+/system/priv-app/SamsungContactsProvider
+/system/priv-app/TelephonyUI
+/system/priv-app/Telecom
+/system/priv-app/ThemeCenter
+/system/priv-app/Upday
+/system/priv-app/TeleService
+/system/priv-app/TaskEdgePanel_v3.2
+/system/priv-app/StoryService
+/system/priv-app/KPECore
+/system/priv-app/imsservice
 "
