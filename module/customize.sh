@@ -37,7 +37,6 @@ REMOVE="
 /system/app/DailyBoard
 /system/app/DAAgent
 /system/app/VideoTrimmer
-/system/app/Foundation
 /system/priv-app/GameTools_Dream
 /system/priv-app/GameOptimizingService
 /system/priv-app/GpuWatchApp
@@ -60,7 +59,6 @@ REMOVE="
 /system/priv-app/SecMyFiles2020
 /system/priv-app/YourPhone_P1_5
 /system/priv-app/SmartSwitchAssistant
-/system/priv-app/SKMSAgent
 /system/priv-app/SamsungPass
 /system/priv-app/SamsungMessages
 /system/priv-app/SamsungContacts
