@@ -169,4 +169,9 @@ REMOVE="
 /system/priv-app/StoryService
 /system/priv-app/KPECore
 /system/priv-app/imsservice
+/system/priv-app/SecTelephonyProvider
+/system/priv-app/KnoxNetworkFilter
+/system/priv-app/KnoxZtFramework
+/system/priv-app/KnoxDesktopLauncher
+/system/priv-app/KmxService
 "
