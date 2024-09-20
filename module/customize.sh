@@ -14,6 +14,8 @@ REMOVE="
 /product/app/Chrome
 /product/app/DuoStub
 /product/app/Gmail2
+/system/app/Foundation
+/system/priv-app/SKMSAgent
 /product/app/GoogleCalendarSyncAdapter
 /product/app/GoogleLocationHistory
 /product/app/Maps
@@ -127,4 +129,15 @@ REMOVE="
 /system/app/BBCAgent
 /system/app/BGMProvider
 /system/app/GearManagerStub
+/system/priv-app/CallAssistant
+/system/priv-app/BlockedNumberProvider
+/system/priv-app/CallBGProvider
+/system/priv-app/CallContentProvider
+/system/priv-app/CallLogBackup
+/system/priv-app/CocktailBarService_v3.2
+/system/priv-app/DeviceBasedServiceConsent
+/system/priv-app/DiagMonAgent91
+/system/priv-app/DigitalWellbeing
+/system/priv-app/DualOutFocusViewer_S
+/system/priv-app/FaceService
 "
