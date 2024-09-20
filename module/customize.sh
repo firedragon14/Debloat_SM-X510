@@ -174,4 +174,7 @@ REMOVE="
 /system/priv-app/KnoxZtFramework
 /system/priv-app/KnoxDesktopLauncher
 /system/priv-app/KmxService
+/prism/priv-app/MyGalaxy
+/system/priv-app/KnoxCore
+/system/priv-app/KnoxGuard
 "
