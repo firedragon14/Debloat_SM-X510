@@ -177,4 +177,8 @@ REMOVE="
 /prism/priv-app/MyGalaxy
 /system/priv-app/KnoxCore
 /system/priv-app/KnoxGuard
+/system/priv-app/NetworkStackGoogle
+/system/priv-app/PhotoEditor_Full
+/system/priv-app/SecAppSeparation
+/system/priv-app/TalkbackSE
 "
